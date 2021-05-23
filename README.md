@@ -5,5 +5,4 @@ I am a Full Stack Developer with an experience in ReactJS, NodeJS, SQL and NoSQL
 #### Happy to connect with you :smile:
 
 - Email: jhakinjal8@gmail.com
-- Site: http://www.kinjaljha.tech/
 
